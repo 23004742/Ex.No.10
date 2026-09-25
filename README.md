@@ -1,7 +1,7 @@
 # EX.NO.10 – CONTENT CREATION USING PROMPT PATTERNS
 
 **Date: 25/09/2026**
-**Name: Yagnesh kumar treddy
+**Name: Yagnesh kumar reddy
 **Reg. No.: 212223100024**
 
 ## AIM
